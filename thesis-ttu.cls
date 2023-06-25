@@ -7,7 +7,7 @@
 \NeedsTeXFormat{LaTeX2e}
 
 % This command gives the name of the class.
-\ProvidesClass{thesis-ttu}[2011/04/09 Thesis template]
+\ProvidesClass{thesis-ttu}[2023/06/24 Thesis template]
 
 %% ---- OPTIONS PROCESSING ---------------------------------------------
 % Define three switches for the the thesis format types.
